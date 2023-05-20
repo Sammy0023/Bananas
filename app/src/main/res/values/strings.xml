@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bananas</string>
+    <string name="child1">Nutrient-rich: Bananas contain vitamins (such as vitamin C and vitamin B6), minerals (like potassium and magnesium), and dietary fiber. They provide children with important nutrients needed for their growth and development.</string>
+    <string name="child2">Dietary diversity: Bananas can be introduced into children\'s diets as one of the first fruits. They are soft, easily chewable, and have a pleasant taste, making them appealing to children.</string>
+    <string name="adult1">Energy and recovery: Bananas are a source of carbohydrates, which are the primary energy source for active young individuals. They can be beneficial for replenishing energy levels after physical workouts or sports activities.</string>
+    <string name="adult2">Dietary fiber: Bananas contain dietary fiber, which aids in maintaining healthy digestion and supporting weight management. They can help young people feel fuller for longer and control their appetite.</string>
+    <string name="young1">Dietary fiber: Bananas contain dietary fiber, which aids in maintaining healthy digestion and supporting weight management. They can help young people feel fuller for longer and control their appetite.</string>
+    <string name="young2">Mood enhancement: Bananas contain tryptophan, which helps the body produce serotonin, the happy hormone. Eating bananas can contribute to improving mood and reducing stress levels.</string>
+</resources>
